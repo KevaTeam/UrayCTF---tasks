@@ -1,0 +1,32 @@
+{
+   "name":"It's Vigenere, guys.",
+   "category":"crypto",
+   "description":{
+      "RU":"Братан, это Виженер. Флаг-это ключ.",
+      "ENG":"It's Vigenere, bro. Flag is a key."
+   },
+   "hints":[
+      {
+         "RU":"XOR",
+         "ENG":"XOR"
+      }
+   ],
+   "value":500,
+   "flag_type":"static",
+   "flag_key":"makectfnotwar",
+   "files":[
+      {
+         "name":"ciphertext",
+         "location":"ciphertext.txt"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"DO!!!!!!!!!IT"
+      }
+   ],
+   "author":{
+      "nick":"notfound"
+   },
+   "game":"urayctf"
+}

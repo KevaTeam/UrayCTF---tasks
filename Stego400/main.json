@@ -1,0 +1,33 @@
+{
+   "name":"Deep sound",
+   "category":"stegano",
+   "description":{
+      "RU":"Серьезно? Аудио запись? Оооо, нам хватило непонятного файла в прошлый раз. Эй, ты! Поможешь разобраться, что не так?",
+      "ENG":"Really? Audio recording? Ooooh, we had an incomprehensible file at last time. Hey, you! Help me figure out what's wrong?"
+   },
+   "hints":[
+      {
+         "RU":"Обратите внимание на название таска.",
+         "ENG":"Pay attention to the name of the task."
+      }
+   ],
+   "value":400,
+   "flag_type":"static",
+   "flag_key":"it's_easy_breasy_steganography",
+   "files":[
+      {
+         "name":"sound",
+         "location":"sound.wav"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"https://yadi.sk/d/m8ekRXMJ3QZjsN"
+      }
+   ],
+   "author":{
+        "nick":"by_sm",
+        "team":"life"
+   },
+   "game":"urayctf"
+}

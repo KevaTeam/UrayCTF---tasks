@@ -1,0 +1,33 @@
+{
+   "name":"Simple Penguin",
+   "category":"stegano",
+   "description":{
+      "RU":"Этот пингвин хочет сказать вам что-то.",
+      "ENG":"That penguin wants say to you something."
+   },
+   "hints":[
+      {
+         "RU":"Он очень сильно хочет вам что-то сказать.",
+         "ENG":"He very much wants to tell you something."
+      }
+   ],
+   "value":100,
+   "flag_type":"static",
+   "flag_key":"go_to_the_gym!",
+   "files":[
+      {
+         "name":"SimplePenguin",
+         "location":"SimplePenguin.png"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"https://yadi.sk/i/3R1ySJQQ3QZhH2"
+      }
+   ],
+   "author":{
+      "nick":"sea-kg",
+      "team":"KEVA"
+   },
+   "game":"urayctf"
+}

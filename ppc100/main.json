@@ -1,0 +1,33 @@
+{
+   "name":"WhatFiguresMean?",
+   "category":"ppc",
+   "description":{
+      "RU":"Что пытаются вам показать этими цифрами?",
+      "ENG":"What are you trying to show these figures?"
+   },
+   "hints":[
+      {
+         "RU":"Рисуй",
+         "ENG":"Paint it"
+      }
+   ],
+   "value":100,
+   "flag_type":"static",
+   "flag_key":"urayctf{helloalien}",
+   "files":[
+      {
+         "name":"data",
+         "location":"data.js"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"DO!!!!!!!!!IT"
+      }
+   ],
+   "author":{
+      "nick":"sea-kg",
+      "team":"KEVA"
+   },
+   "game":"urayctf"
+}

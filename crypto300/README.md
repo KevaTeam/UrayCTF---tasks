@@ -1,0 +1,48 @@
+Task name
+
+   Cipher ORNOT Cipher, what a question!
+
+category
+
+   crypto
+
+description
+
+    RU: Шифр ИЛИ НЕ шифр, вот в чем вопрос! 8487cf8da091cf8ba0bf91ca899a8d82
+
+    ENG: Cipher ORNOT Cipher, what a question! 8487cf8da091cf8ba0bf91ca899a8d82
+
+author
+
+    notfound
+
+game
+
+    urayctf
+
+hints
+
+    1)RU: XOR
+
+    ENG": XOR
+
+    2)RU: Ключ один на все буквы.
+
+    ENG: One key for every letter.
+
+value
+
+    300
+
+flag_type
+
+    static
+
+flag_key
+
+    {x0r_n0t_@n5ver}
+
+files
+
+    ./ciphertext.txt
+

@@ -1,0 +1,33 @@
+{
+   "name":"Sassy stereogram",
+   "category":"stegano",
+   "description":{
+      "RU":"Кто-то оставил этот файл на нашем сервере. Можешь посмотреть, что в нем?",
+      "ENG":"Someone left this file on our server. Can you watch, what is inside?"
+   },
+   "hints":[
+      {
+         "RU":"Stegsolve решит ваши проблемы",
+         "ENG":"Stegsolve will solve your problems"
+      }
+   ],
+   "value":200,
+   "flag_type":"static",
+   "flag_key":"2f96ba80576fd566c4bc65886c4f8ef2",
+   "files":[
+      {
+         "name":"Stereogram",
+         "location":"Stereogram.png"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"https://yadi.sk/i/d6kcNoZB3QZg4D"
+      }
+   ],
+   "author":{
+      "nick":"Nitive",
+      "team":"KEVA"
+   },
+   "game":"urayctf"
+}

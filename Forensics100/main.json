@@ -1,0 +1,33 @@
+{
+   "name":"Just a book",
+   "category":"forensics",
+   "description":{
+      "RU":"Попробуйте найти флаг. Это просто.",
+      "ENG":"Try to find the flag. It's simple."
+   },
+   "hints":[
+      {
+         "RU":"Не обязательно монтировать образ, чтобы найти флаг)",
+         "ENG":"You do not have to mount the image to find the flag)"
+      }
+   ],
+   "value":100,
+   "flag_type":"static",
+   "flag_key":"surpr1se_m0therfucker",
+   "files":[
+      {
+         "name":"forensics100",
+         "location":"forensics100.iso"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"https://yadi.sk/d/kbAqCVYC3QZovW"
+      }
+   ],
+   "author":{
+      "nick":"sea-kg",
+      "team":"KEVA"
+   },
+   "game":"urayctf"
+}

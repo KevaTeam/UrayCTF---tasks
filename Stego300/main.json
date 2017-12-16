@@ -1,0 +1,40 @@
+{
+   "name":"Deep humiliation",
+   "category":"stegano",
+   "description":{
+      "RU":"Вас подвергли глубокому киберунижению :c",
+      "ENG":"You were subjected to a deep cyberhumiliation :c"
+   },
+   "hints":[
+      {
+         "RU":"В файле содержится не только изображение.",
+         "ENG":"The file contains not only an image."
+      },
+      {
+         "RU":"Что вы знаете о программе Bless?",
+         "ENG":"What do you know about Bless program?"
+      }
+   ],
+   "value":300,
+   "flag_type":"static",
+   "flag_key":"c00l_h4x0r",
+   "files":[
+      {
+         "name":"kiber_unijenie",
+         "location":"kiber_unijenie.jpg"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"https://yadi.sk/i/0ap6d2mf3QZiMS"
+      }
+   ],
+   "author":{
+        "nick":"Vexar",
+        "team":"KEVA",
+        "contacts":[
+         "vk.com/vexarr"
+      ]
+   },
+   "game":"urayctf"
+}

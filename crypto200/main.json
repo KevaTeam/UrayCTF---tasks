@@ -1,0 +1,30 @@
+{
+   "name":"Я ншл нвй шфр!",
+   "category":"crypto",
+   "description":{
+      "RU":"Крч, я ншл нвый шфр, н вщ нвзлмвмй, не т чт стрый. Чвк дрвний ккйт прдмл, крч, не суть. Лви обрзц : {abl_gtfx_bl_vtxltk}",
+      "ENG":"I fnd nw ciphr, rly hrd, nt lik old. It mde by old bro, dsnt imprtnt. Fr exmpl: {abl_gtfx_bl_vtxltk}"
+   },
+   "hints":[
+      {
+         "RU":"Цезарь сделал это",
+         "ENG":"Caesar made it"
+      },
+      {
+         "RU":"Ключ не такой, как у Цезаря.",
+         "ENG":"Key is not like Caesarus key."
+      }
+   ],
+   "value":200,
+   "flag_type":"static",
+   "flag_key":"{his_name_is_caesar}",
+   "links": [
+      {
+       "yandex":"DO!!!!!!!!!IT"
+      }
+   ],
+   "author":{
+      "nick":"notfound"
+   },
+   "game":"urayctf"
+}

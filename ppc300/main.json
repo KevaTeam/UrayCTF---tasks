@@ -1,0 +1,32 @@
+{
+   "name":"I will crack your brain",
+   "category":"ppc",
+   "description":{
+      "RU":"Какой тайный смысл в этом?",
+      "ENG":"What is the secret meaning in this?"
+   },
+   "hints":[
+      {
+         "RU":"Зачем созданы эзотерические языки программирования?",
+         "ENG":"Why are esoteric programming languages created?"
+      }
+   ],
+   "value":300,
+   "flag_type":"static",
+   "flag_key":"flag{esolangs_for_fun_and_profit}",
+   "files":[
+      {
+         "name":"data",
+         "location":"data"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"ISAIDDOIT"
+      }
+   ],
+   "author":{
+      "team":"notfound"
+   },
+   "game":"urayctf"
+}

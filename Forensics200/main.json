@@ -1,0 +1,33 @@
+{
+   "name":"IT",
+   "category":"forensics",
+   "description":{
+      "RU":"Весьма подозрительный образ. Посмотри, что в нем.",
+      "ENG":"Very suspicious image. See what's inside"
+   },
+   "hints":[
+      {
+         "RU":"Внимательно осмотрите файлы внутри образа.",
+         "ENG":"Look carefully at the files inside the image."
+      }
+   ],
+   "value":200,
+   "flag_type":"static",
+   "flag_key":"hellogeorgie",
+   "files":[
+      {
+         "name":"forensics200",
+         "location":"forensics200.iso"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"https://yadi.sk/d/KZTaFulZ3QZqA4"
+      }
+   ],
+   "author":{
+      "nick":"sea-kg",
+      "team":"KEVA"
+   },
+   "game":"urayctf"
+}

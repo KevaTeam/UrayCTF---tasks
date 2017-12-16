@@ -1,0 +1,32 @@
+{
+   "name":"Checking",
+   "category":"ppc",
+   "description":{
+      "RU":"Проверьте каждое значение и посчитайте диапазоны.",
+      "ENG":"Check every value and count different ranges."
+   },
+   "hints":[
+      {
+         "RU":"Число может входить в несколько диапазонов.",
+         "ENG":"Every value can be in different ranges."
+      }
+   ],
+   "value":200,
+   "flag_type":"static",
+   "flag_key":"24561 3999977 189313 439061 999842 9473",
+   "files":[
+      {
+         "name":"data",
+         "location":"data"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"ISAIDDOIT"
+      }
+   ],
+   "author":{
+      "team":"KEVA" 
+   },
+   "game":"urayctf"
+}

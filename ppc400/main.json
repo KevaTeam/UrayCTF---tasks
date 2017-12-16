@@ -1,0 +1,36 @@
+{
+   "name":"Unforgettable password",
+   "category":"ppc",
+   "description":{
+      "RU":"Какой тайный смысл в этом?",
+      "ENG":"What is the secret meaning in this?"
+   },
+   "hints":[
+      {
+         "RU":"Да знаю я пароль! Он здесь, но где именно-не помню.",
+         "ENG":"I know my password! It`s here, but I forgot where."
+      }
+   ],
+   "value":400,
+   "flag_type":"static",
+   "flag_key":"{F0r9ot1enPazz}",
+   "files":[
+      {
+         "name":"FLAG",
+         "location":"FLAG.zip"
+      },
+      {
+	"name":"passwords",
+	"location":"passwords.txt"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"ISAIDDOIT"
+      }
+   ],
+   "author":{
+      "team":"notfound"
+   },
+   "game":"urayctf"
+}
