@@ -8,9 +8,9 @@ category
 
 description
 
-    RU: Этот пингвин хочет сказать вам что-то.
+    RU: Попробуйте найти флаг.
 
-    ENG: That penguin wants say to you something.
+    ENG: Try to find the flag.
 
 author
 
