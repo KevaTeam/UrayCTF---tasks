@@ -28,9 +28,9 @@ hints
 
     ENG": The file contains not only an image.
 
-    2)RU: Что вы знаете о программе Bless?
+    2)RU: Что вы знаете о программе Bless Hex Editor?
 
-    ENG": What do you know about Bless program?
+    ENG": What do you know about Bless Hex Editor program?
 
 value
 
