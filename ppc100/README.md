@@ -26,10 +26,6 @@ hints
 
     ENG": Is it image?
 
-    2)RU: Что вы знаете о каналах изображения?
-
-    ENG: What do you know about the channels of image?
-
 value
 
     100
