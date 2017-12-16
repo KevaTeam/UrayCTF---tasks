@@ -10,7 +10,6 @@ description
 
     	EN: Check every value and count different ranges.
 	RU: Проверьте каждое значение и посчитайте диапазоны.
-	https://DOIT!!!!!
 	
 	For example: "1000 2000 3000 4000 5000 6000"
 
