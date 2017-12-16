@@ -33,9 +33,9 @@ game
 
 hints
 
-    1)RU: Возможно это изображение?
+    1)RU: Каждое значение может быть в разных диапазонах.
 
-    ENG: Every value can be in different ranges.
+      ENG: Every value can be in different ranges.
 
 
 value
